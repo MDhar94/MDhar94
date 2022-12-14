@@ -1,6 +1,5 @@
 <h2> Hi, I'm Mischa! </h2>
-<p><em>Data Science teacher at <a href="https://www.lewagon.com/london">Le Wagon</a></br>Bassist at <a href="https://www.instagram.com/fezbandlondon/?hl=en">FEZ</a>
-</em></p>
+<p><em>Data Science teacher at <a href="https://www.lewagon.com/london">Le Wagon</a></em></p>
 
 [![Linkedin: Mischa Dhar](https://img.shields.io/badge/-mischadhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mischa-dhar/)](https://www.linkedin.com/in/mischa-dhar/)
 [![GitHub MDhar94](https://img.shields.io/github/followers/MDhar94?label=follow&style=social)](https://github.com/MDhar94)
@@ -22,7 +21,7 @@ mischa = {
         'age': 28,
         'interests': ['Bass guitar', 'Bouldering', 'All things food']
     },
-    'challenge': 'Currently undertaking the 2022 Advent of Code'
+    'currnet_projects': '2022 Advent of Code'
 }
 ```
 
