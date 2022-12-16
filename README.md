@@ -5,7 +5,7 @@
 
 - I’m currently working on [Advent of Code 2022](https://github.com/MDhar94/AdventOfCode2022)
 
-- currently working on **GCP & CycleGANs**
+- Learning about **GANs and GCP cloud engineering**
 
 - Ask me about **Python, teaching & recipes**
 
