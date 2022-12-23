@@ -5,9 +5,9 @@
 
 - I’m currently working on [Advent of Code 2022](https://github.com/MDhar94/AdventOfCode2022)
 
-- currently working on **GCP & CycleGANs**
+- currently working on **TensorFlow certification & building a CycleGAN**
 
-- Ask me about **Python, teaching & recipes**
+- Ask me about **Python, teaching and/or recipes**
 
 - How to reach me **mischadhar94@gmail.com**
 
