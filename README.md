@@ -3,9 +3,7 @@
 
 ---
 
-- I’m currently working on [Advent of Code 2022](https://github.com/MDhar94/AdventOfCode2022)
-
-- currently working on **TensorFlow certification & building a CycleGAN**
+- I'm currently working on **TensorFlow certification & building a CycleGAN**
 
 - Ask me about **Python, teaching and/or recipes**
 
