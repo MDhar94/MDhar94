@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Mischa</h1>
-<h3 align="center">Data Science teacher at LeWagon London</h3>
+<h3 align="center">Data Analytics batch manager // Data Science & Analytics teacher at Le Wagon, London</h3>
 
 ---
 
-- I'm currently working on **TensorFlow certification & building a CycleGAN**
+- I'm currently working on my **TensorFlow certification**
 
 - Ask me about **Python, teaching and/or recipes**
 
