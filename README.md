@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mischa</h1>
-<h3 align="center">Data Analytics batch manager // Data Science & Analytics teacher at Le Wagon, London</h3>
+<h3 align="center">Data Science / Analytics manager & lecturer at Le Wagon, London</h3>
 
 ---
 
