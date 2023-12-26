@@ -2,13 +2,7 @@
 <h3 align="center">Data science / analytics manager & lecturer at Le Wagon, London</h3>
 
 ---
-
-- I'm currently working on my **TensorFlow certification**
-
-- Ask me about **Python, teaching and/or recipes**
-
 - How to reach me **mischadhar94@gmail.com**
-
 ---
 
 <h3 align="left">Connect with me:</h3>
