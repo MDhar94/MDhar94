@@ -10,9 +10,10 @@
 <br>
 * My current roles are:
   
-  * Freelancer in data science/analytics/engineering 
-  * Course manager on two intensive in-person coding bootcamps ([Le Wagon](https://www.lewagon.com/london))
-  * Data science & data analytics lecturer at Le Wagon
+  * Freelancer in data science/analytics/engineering
+  * Data science & data analytics lecturer at ([Le Wagon](https://www.lewagon.com/london))
+  * Course manager for the two above bootcamps 
+
   * Musician :guitar:
  
 * I'm currently learning:
