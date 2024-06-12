@@ -8,14 +8,15 @@
   [![Gmail Badge](https://img.shields.io/badge/-mischadhar94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mischadhar94@gmail.com)](mailto:mischadhar94@gmail.com)
 </div>
 <br>
+
 * My current roles are:
   
   * Freelancer in data science/analytics/engineering
   * Data science & data analytics lecturer at ([Le Wagon](https://www.lewagon.com/london))
   * Course manager for the two above bootcamps 
-
   * Musician :guitar:
- 
+
+
 * I'm currently learning:
   
   * App frameworks in Python (Django / plotly-dash) 
